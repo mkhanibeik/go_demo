@@ -12,4 +12,4 @@
 *.out
 
 # Log files
-*.log
+*app.log
