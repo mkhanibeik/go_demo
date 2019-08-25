@@ -95,6 +95,9 @@ func main() {
 
 	md5Challenge()
 	fmt.Println("--------")
+
+	jsonTest()
+	fmt.Println("--------")
 }
 
 // Log in the file

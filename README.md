@@ -2,7 +2,7 @@
 A demo project for Go Language
 
 ## To run:
-- go run welcom.go channel.go md5.go
+- go run welcom.go channel.go md5.go json.go
 
 ## To test:
  - go test -v
