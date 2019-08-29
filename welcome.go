@@ -98,6 +98,12 @@ func main() {
 
 	jsonTest()
 	fmt.Println("--------")
+
+	httpTest()
+	fmt.Println("--------")
+
+	startHTTPServer()
+	fmt.Println("--------")
 }
 
 // Log in the file
