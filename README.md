@@ -2,7 +2,7 @@
 A demo project for Go Language
 
 ## To run:
-- go run welcom.go channel.go md5.go json.go
+- go run welcome.go channel.go md5.go json.go http.go httpserver.go
 
 ## To test:
  - go test -v
@@ -10,4 +10,4 @@ A demo project for Go Language
  - go test -v -bench . -run TTT -cpuprofile=profile.out
 
  ## To build:
- - go build welcome.go channel.go md5.go
+ - go build welcome.go channel.go md5.go http.go httpserver.go
